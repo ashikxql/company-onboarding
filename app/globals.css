@@ -316,7 +316,7 @@ img {
 
 .crumbs {
   max-width: 1216px;
-  margin: 18px auto 0;
+  margin: 18px auto 24px;
 }
 .crumbs ol {
   display: flex;
